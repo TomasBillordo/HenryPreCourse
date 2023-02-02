@@ -1,2 +1,1 @@
-# HenryPreCourse
-Prueba de Henry
+Este es una prueba de como rear un repositorio desde github y clonarlo en tu computadora
